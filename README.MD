@@ -15,9 +15,9 @@
 
 ## Установка и запуск
 
-1. Копируем репозиторий:
+1. Клонируем репозиторий:
 ```shell
-git copy
+git clone https://github.com/ravaelamanov/ideaplatform-enrollment.git
 cd ideaplatform-enrollment
 ```
 2. Собираем jar:
